@@ -12,16 +12,16 @@ dependencies:
     sdk: flutter
 
   # From Dart Team: Get current device information from within the Flutter application.
-  device_info: ^0.3.0
+  device_info: ^0.4.0+1
 
   # From Dart Team: A composable, Future-based library for making HTTP requests.
   http: ^0.12.0
 
   # From Flutter Team: Provides an API for querying information about an application package.
-  package_info: ^0.3.2
+  package_info: ^0.4.0+3
 
   # From Flutter Team: Wraps NSUserDefaults (on iOS) and SharedPreferences (on Android).
-  shared_preferences: ^0.4.3
+  shared_preferences: ^0.5.2
 
   # From Flutter Team: A Flutter plugin for launching a URL in the mobile platform.
   url_launcher: ^4.0.2
